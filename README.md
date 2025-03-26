@@ -11,7 +11,7 @@ This tutorial shows you how to create and use a basic Windows 10 virtual machine
 <h2>Environments and Technologies Used</h2>
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop (Windows App for Mac)
 
 
 <h2>Operating Systems Used </h2>
