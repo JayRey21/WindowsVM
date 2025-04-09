@@ -2,7 +2,7 @@
 <p align="center">
 <img width="350" alt="Image" src="https://github.com/user-attachments/assets/3fe557c5-5494-4138-8b68-8537380a54c1" />
 
-<h1>Creating a Windows 10 Virtual Machine (Azure)</h1>
+<h1>Creating a Windows 10 Virtual Machine using Azure (Macbook) </h1>
 This tutorial shows you how to create and use a basic Windows 10 virtual machine using Azure through remmote desktop .<br />
 
 
@@ -29,7 +29,7 @@ This tutorial shows you how to create and use a basic Windows 10 virtual machine
 <img width="800" alt="Image" src="https://github.com/user-attachments/assets/1e130839-098b-4251-b5d5-379f335668c4" />
 </p>
 <p>
-Creating an account is simple if you do not already have one
+*Creating an account is simple if you do not already have one
 </p>
 <br /> 
 
@@ -66,9 +66,9 @@ Creating your own resource group is optional because one will autoatically be cr
 
 -Change size depending on what you'll be using the virtual machine for. (Size shown is recommended) 
 
--Set-up and username and password (You'll need this to log in to VM)
+-Set-up and username and password (You'll need this to log into your VM)
 
--Check licensing box
+-Check the licensing box
 
   **Step 5: Review and Create**
 
