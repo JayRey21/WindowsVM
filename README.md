@@ -3,7 +3,7 @@
 <img width="350" alt="Image" src="https://github.com/user-attachments/assets/3fe557c5-5494-4138-8b68-8537380a54c1" />
 
 <h1>Creating a Windows 10 Virtual Machine using Azure (Macbook) </h1>
-This tutorial shows you how to create and use a basic Windows 10 virtual machine using Azure through remmote desktop .<br />
+This tutorial shows you how to create and use a basic Windows 10 virtual machine using Azure through remote desktop .<br />
 
 
 
